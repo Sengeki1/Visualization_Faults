@@ -1,6 +1,7 @@
 # 🎮 Improved Video Game Sales Visualizations
 
-This project presents two enhanced visualizations based on the [Video Game Sales dataset](https://www.kaggle.com/datasets/gregorut/videogamesales) and [Game Network](https://www.kaggle.com/datasets/beridzeg45/video-games?resource=download) from Kaggle. The original visualizations, while informative in intent, suffered from several data visualization faults that impacted clarity, usability, and accuracy.
+This project presents two enhanced visualizations based on the [Video Game Sales](https://www.kaggle.com/code/turhancankargin/video-game-sales-dataset-visualization-with-plotly) and [Game Network](https://medium.com/inst414-data-science-tech/analyzing-the-structure-of-a-video-game-network-91b4d04fa9f4) from Kaggle. 
+The original visualizations, while informative in intent, suffered from several data visualization faults that impacted clarity, usability, and accuracy.
 
 Below is a summary of the identified faults and how each was addressed in the updated visualizations.
 
@@ -8,7 +9,9 @@ Below is a summary of the identified faults and how each was addressed in the up
 
 ## Visualization 1: Bubble Chart of Global Video Game Sales
 
-![Bubble Chart](imports/img2.png)
+<p align="center">
+  <img src="imports/img2.png" width="800px" height="500px"/>
+</p>
 
 ### Fault 1: **Missing Data Labels**
 - **Explanation:** The original chart did not include any text to identify what each bubble represented (game).
