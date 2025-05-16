@@ -31,6 +31,8 @@ Below is a summary of the identified faults and how each was addressed in the up
 
 ---
 
+![Bubble Chart](<exports/Game Sales.png>)
+
 ## Visualization 2: Network Graph of Video Game Relationships
 
 ![Network Graph](imports/img1.png)
@@ -55,6 +57,8 @@ Below is a summary of the identified faults and how each was addressed in the up
 - **Fix:** Replaced the network graph with a **Sankey diagram** that clearly shows flows between publishers and their games or platforms, allowing users to trace relationships and relative volumes more effectively.
 
 ---
+
+![Sankey Graph](<exports/Video Game Genre Network.PNG>)
 
 ## Tools Used
 - **Plotly / HoloView** for interactive bubble charts and Sankey Graph
