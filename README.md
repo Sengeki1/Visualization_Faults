@@ -1,6 +1,6 @@
 # Improved Video Game Sales Visualizations
 
-This project presents two enhanced visualizations based on the [Video Game Sales](https://www.kaggle.com/code/turhancankargin/video-game-sales-dataset-visualization-with-plotly) and [Game Network](https://medium.com/inst414-data-science-tech/analyzing-the-structure-of-a-video-game-network-91b4d04fa9f4) from Kaggle. 
+This project presents two enhanced visualizations based on the [Video Game Sales](https://www.kaggle.com/code/turhancankargin/video-game-sales-dataset-visualization-with-plotly) and [Game Network](https://medium.com/inst414-data-science-tech/analyzing-the-structure-of-a-video-game-network-91b4d04fa9f4) from **Kaggle** and **Medium**. 
 The original visualizations, while informative in intent, suffered from several data visualization faults that impacted clarity, usability, and accuracy.
 
 Below is a summary of the identified faults and how each was addressed in the updated visualizations.
